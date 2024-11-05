@@ -621,7 +621,7 @@ const FeatureSection = () => {
       </div>
 
       {/* Centered Pagination Controls */}
-      <div className="flex justify-center items-center mt-4">
+      <div className="flex justify-center items-center mt-8">
         <button
           onClick={handlePrev}
           className="bg-blue-600 text-white rounded-full p-2 hover:bg-blue-500 mx-2"
