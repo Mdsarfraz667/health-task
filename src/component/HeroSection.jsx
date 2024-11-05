@@ -23,7 +23,7 @@ const HeroSection = () => {
       </h2>
 
       {/* Responsive paragraph font sizes */}
-      <p className="text-lg sm:text-xl md:text-2xl text-gray-600 mb-6">
+      <p className="text-lg sm:text-xl md:text-2xl text-gray-600 mb-6 text-center">
         Take charge of your health with Ayushmana’s AI-driven platform.
       </p>
 
